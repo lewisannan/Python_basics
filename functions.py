@@ -19,13 +19,13 @@ school()
 def multiply(x,y):
     print(x*y)
 #arguments/values
-multiply(34,56)
+multiply(39,56)
 print()
 print()
 
 def EmployeeDetails(Fullname, Position, Age, Gender):
     print(Fullname, Position, Age, Gender)
-EmployeeDetails("Mohamed Isaak", "Receiptionist", 21, "Male")
+EmployeeDetails("Mohammed Isaak", "Receptionist", 21, "Male")
 EmployeeDetails("Joshua Kibe", "CEO", 39, "Male")
 EmployeeDetails("Olexander Marchel", "Supervisor", 33, "Male")
 EmployeeDetails("Alice Indiana", "Treasurer", 26, "Female")
