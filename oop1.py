@@ -13,6 +13,7 @@ class Dog:
 dog1 = Dog("Bill","Bulldog",True)
 print(dog1.name,dog1.breed,"Does it have fur?",dog1.hasFur)
 print()
+dog1.locomotive()
 dog2 = Dog("Milli","Chihuahua",False)
 print(dog2.name,dog2.breed,dog2.hasFur)
 print()
